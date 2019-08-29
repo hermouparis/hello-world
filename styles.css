@@ -3,15 +3,12 @@
   padding:0px;
 }
 
-#octocat {
-  display: block;
-  width:384px;
-  margin: 50px auto;
+header{
+  background-color: #4CAF50;
+  padding: 5px;
 }
 
-p {
-  display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+h1{
+  font-family: 'Calibri Light';
+  color: #263238;
 }
